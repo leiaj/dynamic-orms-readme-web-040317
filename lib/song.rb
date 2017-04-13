@@ -60,5 +60,4 @@ class Song
 
 end
 
-
-
+#add some comments explaining this stuff in AM
